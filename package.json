@@ -1,8 +1,8 @@
 {
-  "name": "cdk",
+  "name": "my_first_cdk_stack",
   "version": "0.1.0",
   "bin": {
-    "cdk": "bin/cdk.js"
+    "my_first_cdk_stack": "bin/my_first_cdk_stack.js"
   },
   "scripts": {
     "build": "tsc",
